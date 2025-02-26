@@ -3,3 +3,4 @@ niumochoubin
 wdnm
 huashanjianfa
 kuihuabaodian
+linux，启动！
